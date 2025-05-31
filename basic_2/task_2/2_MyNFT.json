@@ -1,0 +1,12 @@
+{
+    "name": "My NFT",
+    "description": "This is a Vegetable NFT",
+    "image": "ipfs://bafkreihe3n6h4bb7vgn75k3wzvlsxshnavnwuhmsncrnmfsyu35ojqmoxq",
+    "attributes": [
+        {
+            "display_type": "date",
+            "trait_type": "birthday",
+            "value": 1546360800
+        }
+    ]
+}
