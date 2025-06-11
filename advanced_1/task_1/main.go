@@ -159,7 +159,7 @@ func main()  {
 	err = envconfig.Process("", &config)
 	util.Err(err)
 	// 连接测试网查询区块和交易信息
-	// task_1()
+	task_1()
 	// 合约代码的生成与调用
-	task_2()
+	// task_2()
 }
